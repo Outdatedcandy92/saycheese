@@ -1,4 +1,4 @@
-# Function Solver (inside a qr code!)
+# Function Grapher (inside a qr code!)
 
 A very minimal webpage that can let you graph simple equations on graph and see their values. (takes up only 2.03 kb)
 
